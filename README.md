@@ -1,4 +1,4 @@
-# Task 1: AI-Based Trending News Video Generator
+#  AI-Based Trending News Video Generator
 
 ## **Project Overview**
 
