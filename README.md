@@ -1,4 +1,4 @@
- AI-Based Trending News Video Generator
+# Task 1: AI-Based Trending News Video Generator
 
 ## **Project Overview**
 
@@ -44,6 +44,7 @@ Video Generator & Stitcher
 Final News Video Output
 
 
+---
 
 ## **Technology Stack**
 
@@ -68,4 +69,13 @@ Final News Video Output
 - **Video Generator & Stitcher:** Creates the final news video  
 
 ---
+
+## **Setup & Installation**
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/VeerGetGit/-AI_News_Video_Generator.git
+cd -AI_News_Video_Generator
+
+
 
