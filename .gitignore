@@ -1,0 +1,59 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+env/
+venv/
+aienv/                # your virtual environment folder
+
+# =========================
+# Environment files
+# =========================
+.env                  # API keys and secrets
+
+# =========================
+# Flask / Streamlit
+# =========================
+instance/
+*.db                  # SQLite databases
+*.sqlite3
+*.log
+*.pid
+
+# =========================
+# IDEs / Editors
+# =========================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# =========================
+# Mac / Windows system files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Video / Audio outputs
+# =========================
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+
+# =========================
+# FFmpeg binaries (optional)
+# =========================
+ffmpeg/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
