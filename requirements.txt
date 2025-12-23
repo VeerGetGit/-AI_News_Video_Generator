@@ -1,0 +1,16 @@
+flask
+requests
+beautifulsoup4
+moviepy==1.0.3
+runwayml
+groq
+python-dotenv
+pyttsx3
+FFMPEG
+pydub
+edge-tts 
+openai-whisper 
+feedparser
+ffmpeg
+lxml
+streamlit
